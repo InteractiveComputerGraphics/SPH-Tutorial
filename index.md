@@ -11,5 +11,5 @@
 
 Note: This document is work-in-progress and will be maintained and updated over a longer period.
 
-* Current version of the document
+* [Current version of the document](pdf/SPH_Tutorial.pdf)
 * Original version of Eurographics
