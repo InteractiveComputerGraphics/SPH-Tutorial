@@ -14,6 +14,10 @@ Note: This document is work-in-progress and will be maintained and updated over 
 * [Current version of the document](pdf/SPH_Tutorial.pdf)
 * [Original version of Eurographics](https://diglib.eg.org/bitstream/handle/10.2312/egt20191035/001-041.pdf)
 
+## Course Slides
+
+Coming soon...
+
 ## Fluid Simulation Code
 
 Most methods discussed in the course notes are implemented in our open-source fluid simulator SPlisHSPlasH. You can download the code here:
