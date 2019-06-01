@@ -16,7 +16,16 @@ Note: This document is work-in-progress and will be maintained and updated over 
 
 ## Course Slides
 
-Coming soon...
+* [Introduction, Foundations, Neighborhood Search](slides/01_intro_foundations_neighborhood.pdf)
+* [Incompressibility](slides/02_incompressibility.pdf)
+* [Boundary Handling](slides/03_boundary_handling.pdf)
+* [Multiphase Fluids](slides/04_multiphase_fluids.pdf)
+* [Viscosity](slides/05_viscosity.pdf)
+* [Vorticity](slides/06_vorticity.pdf)
+* [SPlisHSPlasH](slides/07_SPlisHSPlasH.pdf)
+* [Deformable Solids](slides/08_deformable_solids.pdf)
+* [Rigid Body Simulation](slides/09_rigid_body_simulation.pdf)
+* [Data Driven Techniques](slides/10_data_driven_techniques.pdf)
 
 ## Fluid Simulation Code
 
