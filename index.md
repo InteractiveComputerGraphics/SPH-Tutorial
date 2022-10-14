@@ -5,7 +5,11 @@
 * [Barbara Solenthaler](https://graphics.ethz.ch/~sobarbar), ETH Zurich, Switzerland 
 * [Matthias Teschner](https://cg.informatik.uni-freiburg.de), University of Freiburg, Germany
 
+--- 
+
 ## Eurographics Tutorial 2019 
+
+Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids
 
 ### Course Notes 
 
@@ -27,17 +31,27 @@ Note: This document is work-in-progress and will be maintained and updated over 
 * [Rigid Body Simulation](slides/09_rigid_body_simulation.pdf)
 * [Data Driven Techniques](slides/10_data_driven_techniques.pdf)
 
+---
 
 ## Eurographics State-of-the-Art Report 2022 
+
+A Survey on SPH Methods in Computer Graphics
 
 ### Paper
 
 * [A Survey on SPH Methods in Computer Graphics](https://animation.rwth-aachen.de/media/papers/77/2022-CGF-STAR_SPH.pdf)
 
+### Slides
 
+* [Foundations](slides/EG22_STAR_SPH_Part1_Foundations.pdf)
+* [Incompressibility](slides/EG22_STAR_SPH_Part2_Incompressibility.pdf)
+* [Marterials](slides/EG22_STAR_SPH_Part3_Materials.pdf)
+* [Data driven Fluid Simulation](slides/02_incompressibility.pdf)
+
+--- 
 
 ## Fluid Simulation Code
 
-Most methods discussed in the course notes are implemented in our open-source fluid simulator SPlisHSPlasH. You can download the code here:
+Most methods discussed in the course notes and the STAR are implemented in our open-source fluid simulator SPlisHSPlasH. You can download the code here:
 
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH)
