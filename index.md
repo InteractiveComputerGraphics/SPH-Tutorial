@@ -1,5 +1,3 @@
-### Eurographics Tutorial 2019
-
 ## Authors
 
 * [Dan Koschier](https://www.dankoschier.de), University College London, UK
@@ -7,14 +5,16 @@
 * [Barbara Solenthaler](https://graphics.ethz.ch/~sobarbar), ETH Zurich, Switzerland 
 * [Matthias Teschner](https://cg.informatik.uni-freiburg.de), University of Freiburg, Germany
 
-## Course Notes 
+## Eurographics Tutorial 2019 
+
+### Course Notes 
 
 Note: This document is work-in-progress and will be maintained and updated over a longer period.
 
 * [Current version of the document](pdf/SPH_Tutorial.pdf)
 * [Original version of Eurographics](https://diglib.eg.org/bitstream/handle/10.2312/egt20191035/001-041.pdf)
 
-## Course Slides
+### Course Slides
 
 * [Introduction, Foundations, Neighborhood Search](slides/01_intro_foundations_neighborhood.pdf)
 * [Incompressibility](slides/02_incompressibility.pdf)
@@ -26,6 +26,15 @@ Note: This document is work-in-progress and will be maintained and updated over 
 * [Deformable Solids](slides/08_deformable_solids.pdf)
 * [Rigid Body Simulation](slides/09_rigid_body_simulation.pdf)
 * [Data Driven Techniques](slides/10_data_driven_techniques.pdf)
+
+
+## Eurographics State-of-the-Art Report 2022 
+
+### Paper
+
+* [A Survey on SPH Methods in Computer Graphics](https://animation.rwth-aachen.de/media/papers/77/2022-CGF-STAR_SPH.pdf)
+
+
 
 ## Fluid Simulation Code
 
