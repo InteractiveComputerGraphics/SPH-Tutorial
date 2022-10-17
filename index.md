@@ -5,7 +5,7 @@
 * [Barbara Solenthaler](https://graphics.ethz.ch/~sobarbar), ETH Zurich, Switzerland 
 * [Matthias Teschner](https://cg.informatik.uni-freiburg.de), University of Freiburg, Germany
 
---- 
+---
 
 ## Eurographics Tutorial 2019 
 
@@ -48,10 +48,14 @@ A Survey on SPH Methods in Computer Graphics
 * [Marterials](slides/EG22_STAR_SPH_Part3_Materials.pdf)
 * [Data driven Fluid Simulation](slides/02_incompressibility.pdf)
 
---- 
+---
 
 ## Fluid Simulation Code
 
 Most methods discussed in the course notes and the STAR are implemented in our open-source fluid simulator SPlisHSPlasH. You can download the code here:
 
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH)
+
+An introduction to state-of-the-art simulation methods in the area of visual computing (like SPH) is given here:
+
+* [Physics Simulation in Visual Computing](https://interactivecomputergraphics.github.io/physics-simulation/)
