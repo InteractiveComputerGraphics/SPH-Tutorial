@@ -1,3 +1,3 @@
 # SPH-Tutorial
 
-[Web page of the tutorial](https://interactivecomputergraphics.github.io/SPH-Tutorial)
+[Web page of the tutorial](https://sph-tutorial.physics-simulation.org/)
